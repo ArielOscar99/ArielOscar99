@@ -58,7 +58,7 @@ Implementation of a server-client program in C++ using the K-nearest-neighbours 
 
 ## 📫 How to Reach Me
 - **Email:** ariel0208m@gmail.com 
-- **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  ](https://www.linkedin.com/in/ariel-oskar-704553373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- **LinkedIn:** [Ariel Oskar Linkedin Profile](https://www.linkedin.com/in/ariel-oskar-704553373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ---
 
